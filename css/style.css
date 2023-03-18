@@ -4,6 +4,10 @@
     font-family: 'Rubik', sans-serif;
 }
 
+:root {
+    --bColor: #5DFFD8;
+  }
+
 #index-holder {
     width: 100%;
     height: 100vh;
@@ -57,11 +61,11 @@ nav span,i {
 /*History*/
 
 #history-html {
-    background-color: #5DFFD8;
+    background-color: var(--bColor);
 }
 
 #history-holder {
-    background-color: #5DFFD8;
+    background-color: var(--bColor);
 }
 
 #history-page-1 {
@@ -70,7 +74,7 @@ nav span,i {
 
 #history-page-2 {
     height: 100vh;
-    background-color: #5DFFD8;
+    background-color: var(--bColor);
 }
 
 .history-text {
@@ -196,6 +200,20 @@ nav span,i {
     border-bottom: 15px solid transparent;
     border-right: 15px solid #fff;
     left: -15px;
+}
+
+/*Sources*/
+
+#sources-html {
+    background-color: var(--bColor);
+}
+
+#sources-holder {
+    background-color: var(--bColor);
+}
+
+#sources-page-1 {
+    height: 100vh;
 }
 
 /*Media Queries*/
