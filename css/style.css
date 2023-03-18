@@ -219,3 +219,67 @@ nav span,i {
         left: -15px;
     }
 }
+
+/*Media Queries*/
+@media only screen and (max-width: 992px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 120vh;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #history-page-2 {
+      border: 5px solid red;
+      height: 170vh;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 160vh;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 190vh;
+    }
+}
+
+@media only screen and (max-width: 492px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 220vh;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 240vh;
+    }
+}
+
+@media only screen and (max-width: 402px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 260vh;
+    }
+}
+
+@media only screen and (max-width: 373px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 280vh;
+    }
+}
+
+@media only screen and (max-width: 352px) {
+    #history-page-1 {
+      border: 5px solid red;
+      height: 300vh;
+    }
+}
