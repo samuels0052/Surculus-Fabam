@@ -45,6 +45,15 @@ nav span,i {
     height: 100vh;
 }
 
+.index-text h1 {
+    font-size: 5em;
+}
+
+.index-text p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
 /*History*/
 
 #history-html {
