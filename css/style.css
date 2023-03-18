@@ -61,7 +61,7 @@ nav span,i {
 
 #history-page-2 {
     height: 100vh;
-    background-color: lightblue;
+    background-color: #5DFFD8;
 }
 
 .history-text {
@@ -189,6 +189,7 @@ nav span,i {
     left: -15px;
 }
 
+/*Media Queries*/
 @media screen and (max-width: 600px) {
     .timeline {
         margin: 50px auto;
@@ -220,17 +221,14 @@ nav span,i {
     }
 }
 
-/*Media Queries*/
 @media only screen and (max-width: 992px) {
     #history-page-1 {
-      border: 5px solid red;
       height: 120vh;
     }
 }
 
 @media only screen and (max-width: 768px) {
     #history-page-1 {
-      border: 5px solid red;
       height: 170vh;
     }
 }
@@ -238,14 +236,12 @@ nav span,i {
 
 @media only screen and (max-width: 576px) {
     #history-page-1 {
-      border: 5px solid red;
       height: 200vh;
     }
 }
 
 @media only screen and (max-width: 462px) {
     #history-page-1 {
-      border: 5px solid red;
       height: 240vh;
     }
 }
