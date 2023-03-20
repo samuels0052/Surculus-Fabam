@@ -222,6 +222,12 @@ nav span,i {
     font-size: 16px;
 }
 
+#biology-model {
+    height: 1200px;
+    width: 700px;
+    margin-bottom: 10px;
+}
+
 /*Sources*/
 
 #sources-html {
