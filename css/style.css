@@ -242,6 +242,10 @@ nav span,i {
     height: 100vh;
 }
 
+.sources-text {
+    line-height: 2;
+}
+
 /*Media Queries*/
 @media screen and (max-width: 600px) {
     .timeline {
