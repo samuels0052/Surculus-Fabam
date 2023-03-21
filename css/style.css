@@ -222,6 +222,12 @@ nav span,i {
     font-size: 16px;
 }
 
+.carousel {
+    height: 69%;
+    width: 69%;
+    margin: 10px auto;
+}
+
 /*Biology*/
 
 #biology-html {
@@ -283,7 +289,7 @@ nav span,i {
 }
 
 #sources-page-1 {
-    height: 100vh;
+    height: 120vh;
 }
 
 .sources-text {
