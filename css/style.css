@@ -228,6 +228,26 @@ nav span,i {
     margin-bottom: 10px;
 }
 
+/*Impact*/
+
+#impact-html {
+    background-color: var(--bColor);
+}
+
+#impact-holder {
+    background-color: var(--bColor);
+}
+
+#impact-1 {
+    height: 100vh;
+}
+
+.impact-text {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 16px;
+}
+
 /*Sources*/
 
 #sources-html {
