@@ -202,6 +202,26 @@ nav span,i {
     left: -15px;
 }
 
+/*Habitat*/
+
+#habitat-html {
+    background-color: var(--bColor);
+}
+
+#habitat-holder {
+    background-color: var(--bColor);
+}
+
+#habitat-1 {
+    height: 100vh;
+}
+
+.habitat-text {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 16px;
+}
+
 /*Biology*/
 
 #biology-html {
