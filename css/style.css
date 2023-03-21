@@ -224,7 +224,11 @@ nav span,i {
 
 #biology-model {
     height: 1200px;
-    width: 700px;
+    width: 900px;
+    margin-bottom: 10px;
+}
+
+#biology-1-image {
     margin-bottom: 10px;
 }
 
